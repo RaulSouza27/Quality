@@ -53,8 +53,7 @@ python src/main.py
 ## Funcionalidades
 
 - **Visualização:** Tabela com NÚMERO DE REGISTRO, DATA DE ABERTURA, RESUMO DA NÃO CONFORMIDADE e STATUS.
-- **Detalhamento:** Clique no número de registro para ver e editar todos os detalhes.
-- **Edição:** Edite todos os campos, exceto o NÚMERO DE REGISTRO (único e sequencial).
+- **Detalhamento/Edição:** Clique no NÚMERO DE REGISTRO para ver todos os detalhes e editar todos os campos, exceto o NÚMERO DE REGISTRO (único e sequencial).
 - **Exclusão:** Remova registros indesejados.
 - **Clonagem:** Duplique registros facilmente.
 
@@ -62,7 +61,7 @@ python src/main.py
 
 1. Abra o terminal e execute o comando de execução.
 2. Na tela principal, visualize todas as não conformidades.
-3. Clique no NÚMERO DE REGISTRO para editar, excluir ou clonar.
+3. Clique no NÚMERO DE REGISTRO para detalhar, editar, excluir ou clonar.
 
 ## Contribuição
 

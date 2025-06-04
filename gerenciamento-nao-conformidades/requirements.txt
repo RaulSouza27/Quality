@@ -1,3 +1,2 @@
-Tkinter
 pandas
 numpy
