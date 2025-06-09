@@ -1,0 +1,66 @@
+{
+  "unidades": [
+    "KG",
+    "L",
+    "PEÇ",
+    "TON",
+    "ROL",
+    "BD"
+  ],
+  "defeitos": [
+    "Aspecto do produto ou MP",
+    "Avarias em baldes",
+    "Avarias em caixas",
+    "Avarias em latas",
+    "Avarias em sacarias Transferência",
+    "Avarias no strech",
+    "Consistência na mistura",
+    "Contaminação",
+    "Cor despadronizada",
+    "Desempenho pós cura",
+    "Desvio de peso ou quantidade",
+    "Embalagem com defeito Fornecedor",
+    "Falha de informação do datador"
+  ],
+  "cores_defeitos": {
+    "ASPECTO DO PRODUTO OU MP": "#FFB6B6",
+    "AVARIAS EM BALDES": "#FFD580",
+    "AVARIAS EM CAIXAS": "#FFFACD",
+    "AVARIAS EM LATAS": "#B6FFB6",
+    "AVARIAS EM SACARIAS TRANSFERÊNCIA": "#B6E0FF",
+    "AVARIAS NO STRECH": "#B6B6FF",
+    "CONSISTÊNCIA NA MISTURA": "#E0B6FF",
+    "CONTAMINAÇÃO": "#FFB6E0",
+    "COR DESPADRONIZADA": "#FFDEB6",
+    "DESEMPENHO PÓS CURA": "#B6FFD5",
+    "DESVIO DE PESO OU QUANTIDADE": "#B6FFF6",
+    "EMBALAGEM COM DEFEITO FORNECEDOR": "#E0FFB6",
+    "FALHA DE INFORMAÇÃO DO DATADOR": "#FFB6C1"
+  },
+  "produtos": [
+    {
+      "nome": "PRODUTO INTERNO",
+      "codigo": "0001X0001"
+    },
+    {
+      "nome": "PRODUTO EXTERNO",
+      "codigo": "0001X0002"
+    },
+    {
+      "nome": "PRODUTO FLEXÍVEL",
+      "codigo": "0001X0003"
+    },
+    {
+      "nome": "PRODUTO COLORIDO 1",
+      "codigo": "0002X0001"
+    },
+    {
+      "nome": "PRODUTO COLORIDO 2",
+      "codigo": "0002X0002"
+    },
+    {
+      "nome": "PRODUTO COLORIDO 3",
+      "codigo": "0002X0003"
+    }
+  ]
+}
