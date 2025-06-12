@@ -255,6 +255,16 @@ Este projeto é uma demonstração prática de diversos conceitos fundamentais d
 
 Contribuições são bem-vindas\! Se você tiver sugestões, melhorias ou quiser reportar um bug, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
+## Comando para gerar o executável
+
+Para gerar o executável que rode em qualquer computador é necessário rodar o seguinte comando no terminal na pasta onde estiver o arquivo.
+
+```bash
+python -m PyInstaller --onefile --windowed --name "Nome para o exceutável" arquivo.py
+```
+1. Lembre-se de substituir "Nome para o Executável" por algum nome que queria dar.
+2. Substitua também "arquivo.py" pelo ponto focal do seu arquivo, onde o método _main_ estiver
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para mais detalhes.
